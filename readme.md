@@ -1,1 +1,1 @@
-HQ instagram clone
+ instagram clone
